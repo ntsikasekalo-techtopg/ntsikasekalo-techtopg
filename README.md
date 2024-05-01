@@ -1,4 +1,4 @@
-### I'm a beginer.
+### I'm a beginner.
 ### Be kind
 
 <!---
